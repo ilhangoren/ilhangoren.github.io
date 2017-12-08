@@ -5,14 +5,20 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+<<<<<<< HEAD
 minimal_mistakes_skin    : air # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+||||||| merged common ancestors
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+=======
+minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+>>>>>>> 8c40936839768c672920b409d8b419878b3d939a
 
 # Site Settings
 locale                   : "en"
 title                    : "lifeisroad.com"
 title_separator          : "-"
 name                     : "ilhan"
-description              : "hayat yoldur, yolun kendisi.."
+description              : "hayat yoldur, yolun kendisi..\n Ve bu yolda her insanın yenilenebilir enerji kaynakalrından teknosentez ile kendi besinini üretme hakkı vardır."
 url                      : "http://lifeisroad.com" # the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
