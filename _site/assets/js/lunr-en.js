@@ -10,6 +10,15 @@ var idx = lunr(function () {
 
   
   
+    idx.add({
+      title: "Exclude Post from Search Index",
+      excerpt: "This post should not appear in the search index because it has the following YAML Front Matter:\n\n",
+      categories: ["Jekyll"],
+      tags: [],
+      id: 0
+    });
+    
+  
 
 
 console.log( jQuery.type(idx) );
@@ -18,6 +27,17 @@ var store = [
   
     
     
+    
+      
+      {
+        "title": "Exclude Post from Search Index",
+        "url": "http://localhost:4000/jekyll/post-exclude-search/",
+        "excerpt": "This post should not appear in the search index because it has the following YAML Front Matter:\n\nsearch: false\n\n",
+        "teaser":
+          
+            null
+          
+      }
     
   ]
 

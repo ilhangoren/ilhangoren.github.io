@@ -191,6 +191,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -248,6 +249,11 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
+      comments:
+        provider: "disqus"
+        disqus:
+          shortname: "lifeisroad-com"
       share: true
       related: true
+search : true
