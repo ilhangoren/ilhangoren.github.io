@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "lifeisroad.com"
 title_separator          : "-"
 name                     : "ilhan"
-description              : "hayat yoldur, yolun kendisi..\n Ve bu yolda her insanın yenilenebilir enerji kaynakalrından teknosentez ile kendi besinini üretme hakkı vardır."
+description              : "About life, road and tech"
 url                      : "http://lifeisroad.com" # the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
