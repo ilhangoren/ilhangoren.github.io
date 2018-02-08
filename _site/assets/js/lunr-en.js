@@ -19,6 +19,15 @@ var idx = lunr(function () {
     });
     
   
+    idx.add({
+      title: "Jekyll ile post yazma",
+      excerpt: "Post yazmak için _posts klasörüne girip .md uzantılı dosya oluşturuyoruz. Dosya ismini 2018-2-08-Jekyll ile post yazma.md yapiyoruz. İçine aşağıdaki metini...",
+      categories: ["Jekyll"],
+      tags: [],
+      id: 1
+    });
+    
+  
 
 
 console.log( jQuery.type(idx) );
@@ -33,6 +42,17 @@ var store = [
         "title": "Exclude Post from Search Index",
         "url": "http://localhost:4000/jekyll/post-exclude-search/",
         "excerpt": "This post should not appear in the search index because it has the following YAML Front Matter:\n\nsearch: false\n\n",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Jekyll ile post yazma",
+        "url": "http://localhost:4000/jekyll/Jekyll-ile-post-yazma/",
+        "excerpt": "Post yazmak için _posts klasörüne girip .md uzantılı dosya oluşturuyoruz. Dosya ismini 2018-2-08-Jekyll ile post yazma.md yapiyoruz. İçine aşağıdaki metini...",
         "teaser":
           
             null

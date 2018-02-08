@@ -1,5 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-08T23:31:00+03:00</updated><id>http://localhost:4000/</id><title type="html">lifeisroad.com</title><subtitle>hayat yoldur, yolun kendisi..
- Ve bu yolda her insanın yenilenebilir enerji kaynakalrından teknosentez ile kendi besinini üretme hakkı vardır.</subtitle><author><name>ilhan</name></author><entry><title type="html">Exclude Post from Search Index</title><link href="http://localhost:4000/jekyll/post-exclude-search/" rel="alternate" type="text/html" title="Exclude Post from Search Index" /><published>2017-11-28T00:00:00+03:00</published><updated>2017-11-28T00:00:00+03:00</updated><id>http://localhost:4000/jekyll/post-exclude-search</id><content type="html" xml:base="http://localhost:4000/jekyll/post-exclude-search/">&lt;p&gt;This post should not appear in the search index because it has the following YAML Front Matter:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-09T00:28:25+03:00</updated><id>http://localhost:4000/</id><title type="html">lifeisroad.com</title><subtitle>hayat yoldur, yolun kendisi..
+ Ve bu yolda her insanın yenilenebilir enerji kaynakalrından teknosentez ile kendi besinini üretme hakkı vardır.</subtitle><author><name>ilhan</name></author><entry><title type="html">Jekyll ile post yazma</title><link href="http://localhost:4000/jekyll/Jekyll-ile-post-yazma/" rel="alternate" type="text/html" title="Jekyll ile post yazma" /><published>2018-02-08T00:00:00+03:00</published><updated>2018-02-08T00:00:00+03:00</updated><id>http://localhost:4000/jekyll/Jekyll%20ile%20post%20yazma</id><content type="html" xml:base="http://localhost:4000/jekyll/Jekyll-ile-post-yazma/">&lt;p&gt;Post yazmak için &lt;em&gt;_posts&lt;/em&gt; klasörüne girip .md uzantılı dosya oluşturuyoruz. Dosya ismini 2018-2-08-Jekyll ile post yazma.md yapiyoruz.
+İçine aşağıdaki metini yazınca şuan görmekte olduğunuza benzer bir post oluşuyor. Herşey otomatik.&lt;/p&gt;
+
+&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;search&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;true&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;categories&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; 
+  &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Jekyll&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;layout&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;single&lt;/span&gt;
+&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+
+&lt;span class=&quot;s&quot;&gt;Metinleri buraya ekleyin.&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;Yeni satır ve paragraflar için ek uğraş yok.&lt;/span&gt;
+
+&lt;span class=&quot;err&quot;&gt;	&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Mesela bu bir paragraf başlangıcıdır.&lt;/span&gt;
+
+&lt;span class=&quot;s&quot;&gt;Kod eklemek isteseniz bir sonraki satır başına&lt;/span&gt;
+
+&lt;span class=&quot;err&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;yaml yazın. Sonrasında kodlarınızı yazın ve&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;hepsinden sonra satır başına ``` yazınca gördüğünüze&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;benzer bir post yazmış olacaksınız.&lt;/span&gt; 
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>ilhan</name></author><summary type="html">Post yazmak için _posts klasörüne girip .md uzantılı dosya oluşturuyoruz. Dosya ismini 2018-2-08-Jekyll ile post yazma.md yapiyoruz. İçine aşağıdaki metini yazınca şuan görmekte olduğunuza benzer bir post oluşuyor. Herşey otomatik.</summary></entry><entry><title type="html">Exclude Post from Search Index</title><link href="http://localhost:4000/jekyll/post-exclude-search/" rel="alternate" type="text/html" title="Exclude Post from Search Index" /><published>2017-11-28T00:00:00+03:00</published><updated>2017-11-28T00:00:00+03:00</updated><id>http://localhost:4000/jekyll/post-exclude-search</id><content type="html" xml:base="http://localhost:4000/jekyll/post-exclude-search/">&lt;p&gt;This post should not appear in the search index because it has the following YAML Front Matter:&lt;/p&gt;
 
 &lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;search&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;false&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>ilhan</name></author><summary type="html">This post should not appear in the search index because it has the following YAML Front Matter:</summary></entry></feed>
