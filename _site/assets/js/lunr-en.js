@@ -29,7 +29,7 @@ var idx = lunr(function () {
     
   
     idx.add({
-      title: "İlk madde",
+      title: "İlk hak",
       excerpt: "Hayat yoldur, yolun kendisi. Ve bu yolda her insanın yenilenebilir enerji kaynaklarından teknosentez ile kendi besinini üretme hakkı vardır.\n",
       categories: ["Jekyll"],
       tags: [],
@@ -39,7 +39,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "Ciceklerim",
-      excerpt: "Annem en güzel çiçeklerini bana vermişti\nAldım, baktım ve kurudular.\nBakamadım..\n",
+      excerpt: "Annem en güzel çiçeklerini bana vermişti\nAldım, baktım.\nKurudular,\nBakamadım..\n",
       categories: ["Jekyll"],
       tags: [],
       id: 3
@@ -57,10 +57,37 @@ var idx = lunr(function () {
   
     idx.add({
       title: "Hayat",
-      excerpt: "Hayat Hem kendini geliştirmek, Hem kendini aşmaktır. Eğer bir şey sürekli aynı kalıyorsa, O zaman yaşamak sadece ölmemektir. Sadece ölmemek,...",
+      excerpt: "Hayat Hem kendini geliştirmek, Hem kendini aşmaktır. Eğer bir şey sürekli aynı kalıyorsa, O zaman yaşamak sadece ölmemektir. Sadece ölmemek;...",
       categories: ["Jekyll"],
       tags: [],
       id: 5
+    });
+    
+  
+    idx.add({
+      title: "Kerem'in ilhamiyle",
+      excerpt: "Ne zaman düşünsem sizi titrerim, Yaslı dağlar, yüzü gülmeyen dağlar! Bu dağlar içinde bir yer var derim, Orada kaybolan bir...",
+      categories: ["Jekyll"],
+      tags: [],
+      id: 6
+    });
+    
+  
+    idx.add({
+      title: "İletişim sorunları ve olası çözümler",
+      excerpt: "Genelde insanların davranışlarını kendimizce yorumlayıp ona göre hareket ediyoruz. Fakat karşıdakilerin neler hissettikleri, hangi ruh halinde olduklarını, sıkıntılarının neler olduğunu...",
+      categories: ["Jekyll"],
+      tags: [],
+      id: 7
+    });
+    
+  
+    idx.add({
+      title: "Kim bilir",
+      excerpt: "Boş bardağın bile dolu tarafı vardır derler, Elinde boş bir bardak olması gibi mesela. Ektiğin umutlara O boş bardakla su...",
+      categories: ["Jekyll"],
+      tags: [],
+      id: 8
     });
     
   
@@ -97,8 +124,8 @@ var store = [
     
       
       {
-        "title": "İlk madde",
-        "url": "http://localhost:4000/jekyll/%C4%B0lk-madde/",
+        "title": "İlk hak",
+        "url": "http://localhost:4000/jekyll/%C4%B0lk-hak/",
         "excerpt": "Hayat yoldur, yolun kendisi. Ve bu yolda her insanın yenilenebilir enerji kaynaklarından teknosentez ile kendi besinini üretme hakkı vardır.\n",
         "teaser":
           
@@ -110,7 +137,7 @@ var store = [
       {
         "title": "Ciceklerim",
         "url": "http://localhost:4000/jekyll/Ciceklerim/",
-        "excerpt": "Annem en güzel çiçeklerini bana vermişti\nAldım, baktım ve kurudular.\nBakamadım..\n",
+        "excerpt": "Annem en güzel çiçeklerini bana vermişti\nAldım, baktım.\nKurudular,\nBakamadım..\n",
         "teaser":
           
             null
@@ -132,7 +159,40 @@ var store = [
       {
         "title": "Hayat",
         "url": "http://localhost:4000/jekyll/Hayat/",
-        "excerpt": "Hayat Hem kendini geliştirmek, Hem kendini aşmaktır. Eğer bir şey sürekli aynı kalıyorsa, O zaman yaşamak sadece ölmemektir. Sadece ölmemek,...",
+        "excerpt": "Hayat Hem kendini geliştirmek, Hem kendini aşmaktır. Eğer bir şey sürekli aynı kalıyorsa, O zaman yaşamak sadece ölmemektir. Sadece ölmemek;...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Kerem'in ilhamiyle",
+        "url": "http://localhost:4000/jekyll/Kerem'in-ilhamiyle/",
+        "excerpt": "Ne zaman düşünsem sizi titrerim, Yaslı dağlar, yüzü gülmeyen dağlar! Bu dağlar içinde bir yer var derim, Orada kaybolan bir...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "İletişim sorunları ve olası çözümler",
+        "url": "http://localhost:4000/jekyll/%C4%B0leti%C5%9Fim-sorunlar%C4%B1-ve-olas%C4%B1-%C3%A7%C3%B6z%C3%BCmler/",
+        "excerpt": "Genelde insanların davranışlarını kendimizce yorumlayıp ona göre hareket ediyoruz. Fakat karşıdakilerin neler hissettikleri, hangi ruh halinde olduklarını, sıkıntılarının neler olduğunu...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Kim bilir",
+        "url": "http://localhost:4000/jekyll/Kim-bilir/",
+        "excerpt": "Boş bardağın bile dolu tarafı vardır derler, Elinde boş bir bardak olması gibi mesela. Ektiğin umutlara O boş bardakla su...",
         "teaser":
           
             null
