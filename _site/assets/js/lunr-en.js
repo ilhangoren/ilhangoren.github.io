@@ -37,6 +37,33 @@ var idx = lunr(function () {
     });
     
   
+    idx.add({
+      title: "Ciceklerim",
+      excerpt: "Annem en güzel çiçeklerini bana vermişti\nAldım, baktım ve kurudular.\nBakamadım..\n",
+      categories: ["Jekyll"],
+      tags: [],
+      id: 3
+    });
+    
+  
+    idx.add({
+      title: "Giden ben",
+      excerpt: "Beni ben yapan bendim.\nO beni benden aldınız,\nKalan, benim.\nBu ben bambaşka, ben değil..\n",
+      categories: ["Jekyll"],
+      tags: [],
+      id: 4
+    });
+    
+  
+    idx.add({
+      title: "Hayat",
+      excerpt: "Hayat Hem kendini geliştirmek, Hem kendini aşmaktır. Eğer bir şey sürekli aynı kalıyorsa, O zaman yaşamak sadece ölmemektir. Sadece ölmemek,...",
+      categories: ["Jekyll"],
+      tags: [],
+      id: 5
+    });
+    
+  
 
 
 console.log( jQuery.type(idx) );
@@ -49,11 +76,11 @@ var store = [
       
       {
         "title": "Exclude Post from Search Index",
-        "url": "http://localhost:4000/jekyll/post-exclude-search/",
+        "url": "http://localhost:4000/jekyll/Post-exclude-search/",
         "excerpt": "This post should not appear in the search index because it has the following YAML Front Matter:\n\nsearch: false\n\n",
         "teaser":
           
-            "http://localhost:4000/assets/images/open-road.jpg%22"
+            null
           
       },
     
@@ -64,7 +91,7 @@ var store = [
         "excerpt": "Post yazmak için _posts klasörüne girip .md uzantılı dosya oluşturuyoruz. Dosya ismini 2018-2-08-Jekyll ile post yazma.md yapiyoruz. İçine aşağıdaki metini...",
         "teaser":
           
-            "http://localhost:4000/assets/images/open-road.jpg%22"
+            null
           
       },
     
@@ -75,7 +102,40 @@ var store = [
         "excerpt": "Hayat yoldur, yolun kendisi. Ve bu yolda her insanın yenilenebilir enerji kaynaklarından teknosentez ile kendi besinini üretme hakkı vardır.\n",
         "teaser":
           
-            "http://localhost:4000/assets/images/open-road.jpg%22"
+            null
+          
+      },
+    
+      
+      {
+        "title": "Ciceklerim",
+        "url": "http://localhost:4000/jekyll/Ciceklerim/",
+        "excerpt": "Annem en güzel çiçeklerini bana vermişti\nAldım, baktım ve kurudular.\nBakamadım..\n",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Giden ben",
+        "url": "http://localhost:4000/jekyll/Giden-ben/",
+        "excerpt": "Beni ben yapan bendim.\nO beni benden aldınız,\nKalan, benim.\nBu ben bambaşka, ben değil..\n\n",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Hayat",
+        "url": "http://localhost:4000/jekyll/Hayat/",
+        "excerpt": "Hayat Hem kendini geliştirmek, Hem kendini aşmaktır. Eğer bir şey sürekli aynı kalıyorsa, O zaman yaşamak sadece ölmemektir. Sadece ölmemek,...",
+        "teaser":
+          
+            null
           
       }
     

@@ -5,8 +5,8 @@ categories:
 layout: single
 ---
 
-Beni ben yapan bendim<br/>
+Beni ben yapan bendim.<br/>
 O beni benden aldınız,<br/>
-Geride kaldı.<br/>
+Kalan, benim.<br/>
 Bu ben bambaşka, ben değil..<br/>
 
