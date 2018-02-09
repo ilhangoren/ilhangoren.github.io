@@ -25,4 +25,4 @@ Ne umutlar yetiştirmeye çalıştık,<br/>
 Ne umutlar soldu,<br/>
 Hangilerini unuttuk acaba ?<br/>
 <br/>
-Kim bilir ..<br/>
+Kim bilir..<br/>
