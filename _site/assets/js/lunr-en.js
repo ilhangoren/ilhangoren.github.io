@@ -28,6 +28,15 @@ var idx = lunr(function () {
     });
     
   
+    idx.add({
+      title: "İlk madde",
+      excerpt: "Hayat yoldur, yolun kendisi. Ve bu yolda her insanın yenilenebilir enerji kaynaklarından teknosentez ile kendi besinini üretme hakkı vardır.\n",
+      categories: ["Jekyll"],
+      tags: [],
+      id: 2
+    });
+    
+  
 
 
 console.log( jQuery.type(idx) );
@@ -44,7 +53,7 @@ var store = [
         "excerpt": "This post should not appear in the search index because it has the following YAML Front Matter:\n\nsearch: false\n\n",
         "teaser":
           
-            null
+            "http://localhost:4000/assets/images/open-road.jpg%22"
           
       },
     
@@ -55,7 +64,18 @@ var store = [
         "excerpt": "Post yazmak için _posts klasörüne girip .md uzantılı dosya oluşturuyoruz. Dosya ismini 2018-2-08-Jekyll ile post yazma.md yapiyoruz. İçine aşağıdaki metini...",
         "teaser":
           
-            null
+            "http://localhost:4000/assets/images/open-road.jpg%22"
+          
+      },
+    
+      
+      {
+        "title": "İlk madde",
+        "url": "http://localhost:4000/jekyll/%C4%B0lk-madde/",
+        "excerpt": "Hayat yoldur, yolun kendisi. Ve bu yolda her insanın yenilenebilir enerji kaynaklarından teknosentez ile kendi besinini üretme hakkı vardır.\n",
+        "teaser":
+          
+            "http://localhost:4000/assets/images/open-road.jpg%22"
           
       }
     
