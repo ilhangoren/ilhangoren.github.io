@@ -6,5 +6,6 @@ layout: single
 ---
 
 Annem en güzel çiçeklerini bana vermişti<br/>
-Aldım, baktım ve kurudular.<br/>
+Aldım, baktım.<br/>
+Kurudular,<br/>
 Bakamadım..<br/>
