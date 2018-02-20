@@ -252,9 +252,9 @@ defaults:
       read_time: false
       comments: true
       comments:
-       provider: "disqus"
+        provider: "disqus"
         disqus:
-         shortname: "lifeisroad-com"
+          shortname: "lifeisroad-com"
       share: true
       related: true
 search : true
