@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "ilhan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/profil.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "a passenger"
   location         : "istanbul"
   email            :
@@ -250,7 +250,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      comments: true
+      comments: trueea
       comments:
         provider: "disqus"
         disqus:
