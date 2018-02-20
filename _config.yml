@@ -251,15 +251,9 @@ defaults:
       author_profile: true
       read_time: false
       comments:
-        provider               : "facebook"
-        facebook:
-          appid                : # optional
-          num_posts            : 5 # 5 (default)
-          colorscheme          : ligth # "light" (default), "dark"
-      # comments:
-       # provider: "disqus"
-        # disqus:
-         # shortname: "lifeisroad-com"
-      # share: true
-      # related: true
+       provider: "disqus"
+        disqus:
+         shortname: "lifeisroad-com"
+      share: true
+      related: true
 search : true
