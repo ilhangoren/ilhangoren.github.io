@@ -91,6 +91,24 @@ var idx = lunr(function () {
     });
     
   
+    idx.add({
+      title: "Maske",
+      excerpt: "Bana aldırmayın! Yüzüm bir maskedir, Sizi aldatmasın, Binlerce maskem var, Çıkarmaya korktuğum Ve Hiçbiri ben değilim. Beni kendi maskelerimden kurtaracak...",
+      categories: [],
+      tags: [],
+      id: 9
+    });
+    
+  
+    idx.add({
+      title: "Nesne yönelimli programlama",
+      excerpt: "Bu terimler yazılım ve programlamada çok temel terimlerdir. Bunları iyi bilip öyle çalışmak gerekir. Yapılan şeyin altında yatan gerçekleri bilmeden...",
+      categories: [],
+      tags: [],
+      id: 10
+    });
+    
+  
 
 
 console.log( jQuery.type(idx) );
@@ -193,6 +211,28 @@ var store = [
         "title": "Kim bilir",
         "url": "http://localhost:4000/jekyll/Kim-bilir/",
         "excerpt": "Boş bardağın bile dolu tarafı vardır derler, Elinde boş bir bardak olması gibi mesela. Ektiğin umutlara O boş bardakla su...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Maske",
+        "url": "http://localhost:4000/Maske/",
+        "excerpt": "Bana aldırmayın! Yüzüm bir maskedir, Sizi aldatmasın, Binlerce maskem var, Çıkarmaya korktuğum Ve Hiçbiri ben değilim. Beni kendi maskelerimden kurtaracak...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Nesne yönelimli programlama",
+        "url": "http://localhost:4000/Nesne-y%C3%B6nelimli-programlama/",
+        "excerpt": "Bu terimler yazılım ve programlamada çok temel terimlerdir. Bunları iyi bilip öyle çalışmak gerekir. Yapılan şeyin altında yatan gerçekleri bilmeden...",
         "teaser":
           
             null
