@@ -5,8 +5,8 @@ categories:
 layout: single
 ---
 
-Annem en güzel çiçeklerini bana vermişti
-Aldım, baktım.
-Kurudular,
-Bakamadım..
+Annem en güzel çiçeklerini bana vermişti<br>
+Aldım, baktım.<br>
+Kurudular,<br>
+Bakamadım..<br>
 
