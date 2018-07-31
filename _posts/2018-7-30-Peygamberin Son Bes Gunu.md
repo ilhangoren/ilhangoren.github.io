@@ -11,8 +11,6 @@ comments: true
 share: true
 ---
 
-# Peygamberin Son Bes Gunu #
-
 **Kendimce okumada aklımda kalanlar**
 
 Rahmi Sönmez ve Fehmi Gülmez adında iki sıkı arkadaşın hayatını anlatıyor roman.
