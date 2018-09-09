@@ -45,6 +45,18 @@
 <lastmod>2018-02-12T00:00:00+03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/Listem/</loc>
+<lastmod>2018-07-07T00:00:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/jekyll/Peygamberin-Son-Bes-Gunu/</loc>
+<lastmod>2018-07-30T00:00:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/jekyll/Bilinmeyen-bir-kad%C4%B1n%C4%B1n-mektubu/</loc>
+<lastmod>2018-07-31T00:00:00+03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -55,6 +67,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/index_yedek.html</loc>
-<lastmod>2018-03-08T00:21:04+03:00</lastmod>
+<lastmod>2018-07-07T16:09:13+03:00</lastmod>
 </url>
 </urlset>

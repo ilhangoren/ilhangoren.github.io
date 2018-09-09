@@ -255,6 +255,6 @@ defaults:
         provider: "disqus"
         disqus:
           shortname: "lifeisroad-com"
-      share: true
-      related: true
-search : true
+      share: false # true yaziyordu
+      related: false # true yaziyordu
+search : false # true yaziyordu

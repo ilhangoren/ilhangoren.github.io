@@ -30,7 +30,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "İlk hak",
-      excerpt: "Hayat yoldur, yolun kendisi. Ve bu yolda her insanın yenilenebilir enerji kaynaklarından teknosentez ile kendi besinini üretme hakkı vardır.\n",
+      excerpt: "Hayat yoldur, yolun kendisi.\nVe bu yolda her insanın yenilenebilir enerji kaynaklarından teknosentez ile kendi besinini üretme hakkı vardır.\n",
       categories: ["Jekyll"],
       tags: [],
       id: 2
@@ -57,7 +57,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "Hayat",
-      excerpt: "Hayat Hem kendini geliştirmek, Hem kendini aşmaktır. Eğer bir şey sürekli aynı kalıyorsa, O zaman yaşamak sadece ölmemektir. Sadece ölmemek;...",
+      excerpt: "Hayat Hem kendini geliştirmek, Hem kendini aşmaktır. Eğer bir şey sürekli aynı kalıyorsa, O zaman yaşamak sadece ölmemektir. Ölmemek; ölememek.....",
       categories: ["Jekyll"],
       tags: [],
       id: 5
@@ -109,6 +109,33 @@ var idx = lunr(function () {
     });
     
   
+    idx.add({
+      title: "Listem",
+      excerpt: "\n\nsearch: true\ncategories:\n\n  Jekyll\nlayout: single\n—\n\n\n",
+      categories: [],
+      tags: [],
+      id: 11
+    });
+    
+  
+    idx.add({
+      title: "Peygamberin Son Beş Günü",
+      excerpt: "Kendimce okumada aklımda kalanlar\n\n",
+      categories: ["Jekyll"],
+      tags: ["Kitaplar","Okumalar","Books","Summaries"],
+      id: 12
+    });
+    
+  
+    idx.add({
+      title: "Bilinmeyen bir kadının mektubu",
+      excerpt: "Kendimce okumada aklımda kalanlar\n\n",
+      categories: ["Jekyll"],
+      tags: ["Kitaplar","Okumalar","Books","Summaries"],
+      id: 13
+    });
+    
+  
 
 
 console.log( jQuery.type(idx) );
@@ -144,7 +171,7 @@ var store = [
       {
         "title": "İlk hak",
         "url": "http://localhost:4000/jekyll/%C4%B0lk-hak/",
-        "excerpt": "Hayat yoldur, yolun kendisi. Ve bu yolda her insanın yenilenebilir enerji kaynaklarından teknosentez ile kendi besinini üretme hakkı vardır.\n",
+        "excerpt": "Hayat yoldur, yolun kendisi.\nVe bu yolda her insanın yenilenebilir enerji kaynaklarından teknosentez ile kendi besinini üretme hakkı vardır.\n",
         "teaser":
           
             null
@@ -155,7 +182,7 @@ var store = [
       {
         "title": "Ciceklerim",
         "url": "http://localhost:4000/jekyll/Ciceklerim/",
-        "excerpt": "Annem en güzel çiçeklerini bana vermişti\nAldım, baktım.\nKurudular,\nBakamadım..\n",
+        "excerpt": "Annem en güzel çiçeklerini bana vermişti\nAldım, baktım.\nKurudular,\nBakamadım..\n\n",
         "teaser":
           
             null
@@ -166,7 +193,7 @@ var store = [
       {
         "title": "Giden ben",
         "url": "http://localhost:4000/jekyll/Giden-ben/",
-        "excerpt": "Beni ben yapan bendim.\nO beni benden aldınız,\nKalan, benim.\nBu ben bambaşka, ben değil..\n\n",
+        "excerpt": "Beni ben yapan bendim.\nO beni benden aldınız,\nKalan, benim.\nBu ben bambaşka, ben değil..\n",
         "teaser":
           
             null
@@ -177,7 +204,7 @@ var store = [
       {
         "title": "Hayat",
         "url": "http://localhost:4000/jekyll/Hayat/",
-        "excerpt": "Hayat Hem kendini geliştirmek, Hem kendini aşmaktır. Eğer bir şey sürekli aynı kalıyorsa, O zaman yaşamak sadece ölmemektir. Sadece ölmemek;...",
+        "excerpt": "Hayat Hem kendini geliştirmek, Hem kendini aşmaktır. Eğer bir şey sürekli aynı kalıyorsa, O zaman yaşamak sadece ölmemektir. Ölmemek; ölememek.....",
         "teaser":
           
             null
@@ -233,6 +260,39 @@ var store = [
         "title": "Nesne yönelimli programlama",
         "url": "http://localhost:4000/Nesne-y%C3%B6nelimli-programlama/",
         "excerpt": "Bu terimler yazılım ve programlamada çok temel terimlerdir. Bunları iyi bilip öyle çalışmak gerekir. Yapılan şeyin altında yatan gerçekleri bilmeden...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Listem",
+        "url": "http://localhost:4000/Listem/",
+        "excerpt": "search: true categories: Jekyll layout: single — küçük prens şeker portakalı olasılıksız aşk suç ceza hayvan çiftliği sefiller satranç kuyucaklı...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Peygamberin Son Beş Günü",
+        "url": "http://localhost:4000/jekyll/Peygamberin-Son-Bes-Gunu/",
+        "excerpt": "Kendimce okumada aklımda kalanlar Rahmi Sönmez ve Fehmi Gülmez adında iki sıkı arkadaşın hayatını anlatıyor roman. Tahsin Yücel kitabın giriş...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Bilinmeyen bir kadının mektubu",
+        "url": "http://localhost:4000/jekyll/Bilinmeyen-bir-kad%C4%B1n%C4%B1n-mektubu/",
+        "excerpt": "Kendimce okumada aklımda kalanlar Kitap 1920’lerde Stefan Zweig tarafından kaleme alınmış. Sadece hisler ve düşünceler üzerinden ilerlediği için dönemle ilgili...",
         "teaser":
           
             null
