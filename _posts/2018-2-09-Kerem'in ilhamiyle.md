@@ -19,5 +19,6 @@ Hey bu dağlar yalçın, karanlık, derin!<br/>
 Ne bir geçit verir ne sıcak bir in.<br/>
 Gün battığı zaman sarp tepelerin<br/>
 Üstünden bir kartal geçer, o kadar..<br/>
-<br/>
-Ahmet Kutsi Tecer<br/>
+
+Ahmet Kutsi Tecer
+
