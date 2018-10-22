@@ -147,7 +147,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "Kitap arsivleri",
-      excerpt: "Ücretsiz(birçoğu) olarak E Kitap tarama kaynakları\n\n",
+      excerpt: "Ücretsiz(birçoğu) olarak E Kitap tarama kaynakları asdasdasd http://e-booksland.com/ http://en.bookfi.org/ http://ebookee.org http://kat.cr/ http://pdfsb.net/ http://www.freebookspot.es/ http://appliedsciencefreelibraryguide.org/ http://avxhome.se/ebooks http://gendocs.ru/ (arayuzu rusca ama arama...",
       categories: [],
       tags: [],
       id: 15
@@ -350,7 +350,7 @@ var store = [
       {
         "title": "Kitap arsivleri",
         "url": "http://localhost:4000/Kitap-arsivleri/",
-        "excerpt": "Ücretsiz(birçoğu) olarak E Kitap tarama kaynakları http://e-booksland.com/ http://en.bookfi.org/ http://ebookee.org http://kat.cr/ http://pdfsb.net/ http://www.freebookspot.es/ http://appliedsciencefreelibraryguide.org/ http://avxhome.se/ebooks http://gendocs.ru/ (arayuzu rusca ama arama yapabilirsiniz)...",
+        "excerpt": "Ücretsiz(birçoğu) olarak E Kitap tarama kaynakları asdasdasd http://e-booksland.com/ http://en.bookfi.org/ http://ebookee.org http://kat.cr/ http://pdfsb.net/ http://www.freebookspot.es/ http://appliedsciencefreelibraryguide.org/ http://avxhome.se/ebooks http://gendocs.ru/ (arayuzu rusca ama arama...",
         "teaser":
           
             null
