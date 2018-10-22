@@ -154,6 +154,24 @@ var idx = lunr(function () {
     });
     
   
+    idx.add({
+      title: "Testler",
+      excerpt: "Test sayfasıdır Bunlar temel işlemlerin testidir. Alt satırda olmalı bu metin. bu da gayet iyi bir başlık olacak bold demek...",
+      categories: [],
+      tags: [],
+      id: 16
+    });
+    
+  
+    idx.add({
+      title: "Bilinmeyen bir kadının mektubu",
+      excerpt: "Kurumuş yeşil otları\nToprak olmuş umutları\nGökte mazi bulutları\nBu mezarda bir garip var, garip\n\n",
+      categories: ["Jekyll"],
+      tags: ["Kitaplar","Okumalar","Books","Summaries"],
+      id: 17
+    });
+    
+  
 
 
 console.log( jQuery.type(idx) );
@@ -333,6 +351,28 @@ var store = [
         "title": "Kitap arsivleri",
         "url": "http://localhost:4000/Kitap-arsivleri/",
         "excerpt": "Ücretsiz(birçoğu) olarak E Kitap tarama kaynakları http://e-booksland.com/ http://en.bookfi.org/ http://ebookee.org http://kat.cr/ http://pdfsb.net/ http://www.freebookspot.es/ http://appliedsciencefreelibraryguide.org/ http://avxhome.se/ebooks http://gendocs.ru/ (arayuzu rusca ama arama yapabilirsiniz)...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Testler",
+        "url": "http://localhost:4000/testler/",
+        "excerpt": "Test sayfasıdır Bunlar temel işlemlerin testidir. Alt satırda olmalı bu metin. bu da gayet iyi bir başlık olacak bold demek...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Bilinmeyen bir kadının mektubu",
+        "url": "http://localhost:4000/jekyll/Garip/",
+        "excerpt": "Kurumuş yeşil otları Toprak olmuş umutları Gökte mazi bulutları Bu mezarda bir garip var, garip Hızlı hızlı giden yolcu Bu...",
         "teaser":
           
             null

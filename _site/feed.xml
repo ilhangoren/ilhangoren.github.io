@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-22T23:04:42+03:00</updated><id>http://localhost:4000/</id><title type="html">lifeisroad.com</title><subtitle>About life, road and tech</subtitle><author><name>ilhan</name></author><entry><title type="html">Kitap arsivleri</title><link href="http://localhost:4000/Kitap-arsivleri/" rel="alternate" type="text/html" title="Kitap arsivleri" /><published>2018-09-09T00:00:00+03:00</published><updated>2018-09-09T00:00:00+03:00</updated><id>http://localhost:4000/Kitap%20arsivleri</id><content type="html" xml:base="http://localhost:4000/Kitap-arsivleri/">&lt;h2 id=&quot;Ücretsizbirçoğu-olarak-e-kitap-tarama-kaynakları&quot;&gt;Ücretsiz(birçoğu) olarak E Kitap tarama kaynakları&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-22T23:14:37+03:00</updated><id>http://localhost:4000/</id><title type="html">lifeisroad.com</title><subtitle>About life, road and tech</subtitle><author><name>ilhan</name></author><entry><title type="html">Bilinmeyen bir kadının mektubu</title><link href="http://localhost:4000/jekyll/Garip/" rel="alternate" type="text/html" title="Bilinmeyen bir kadının mektubu" /><published>2018-10-22T00:00:00+03:00</published><updated>2018-10-22T00:00:00+03:00</updated><id>http://localhost:4000/jekyll/Garip</id><content type="html" xml:base="http://localhost:4000/jekyll/Garip/">&lt;p&gt;Kurumuş yeşil otları
+Toprak olmuş umutları
+Gökte mazi bulutları
+Bu mezarda bir garip var, garip&lt;/p&gt;
+
+&lt;p&gt;Hızlı hızlı giden yolcu
+Bu mezarda bir garip var
+Bak taşına acı acı
+Bu mezarda bir garip var, garip&lt;/p&gt;
+
+&lt;p&gt;İzi bile yok dünyada
+Onu aramak beyhude
+Ne gezersin bu ovada
+Bu mezarda bir garip var, garip&lt;/p&gt;
+
+&lt;p&gt;Aşık Mahzuni Şerif&lt;/p&gt;</content><author><name>ilhan</name></author><category term="Kitaplar" /><category term="Okumalar" /><category term="Books" /><category term="Summaries" /><summary type="html">Kurumuş yeşil otları Toprak olmuş umutları Gökte mazi bulutları Bu mezarda bir garip var, garip</summary></entry><entry><title type="html">Testler</title><link href="http://localhost:4000/testler/" rel="alternate" type="text/html" title="Testler" /><published>2018-09-10T00:00:00+03:00</published><updated>2018-09-10T00:00:00+03:00</updated><id>http://localhost:4000/testler</id><content type="html" xml:base="http://localhost:4000/testler/">&lt;h2 id=&quot;test-sayfasıdır&quot;&gt;Test sayfasıdır&lt;/h2&gt;
+&lt;p&gt;Bunlar temel işlemlerin testidir.
+Alt satırda olmalı bu metin.&lt;/p&gt;
+&lt;h3 id=&quot;bu-da-gayet-iyi-bir-başlık-olacak&quot;&gt;bu da gayet iyi bir başlık olacak&lt;/h3&gt;
+&lt;p&gt;bold demek ‘bu demek’
+satır sonuna &lt;br /&gt;
+sonraki satıra geçmiş olmalı.&lt;/p&gt;</content><author><name>ilhan</name></author><summary type="html">Test sayfasıdır Bunlar temel işlemlerin testidir. Alt satırda olmalı bu metin. bu da gayet iyi bir başlık olacak bold demek ‘bu demek’ satır sonuna sonraki satıra geçmiş olmalı.</summary></entry><entry><title type="html">Kitap arsivleri</title><link href="http://localhost:4000/Kitap-arsivleri/" rel="alternate" type="text/html" title="Kitap arsivleri" /><published>2018-09-09T00:00:00+03:00</published><updated>2018-09-09T00:00:00+03:00</updated><id>http://localhost:4000/Kitap%20arsivleri</id><content type="html" xml:base="http://localhost:4000/Kitap-arsivleri/">&lt;h2 id=&quot;Ücretsizbirçoğu-olarak-e-kitap-tarama-kaynakları&quot;&gt;Ücretsiz(birçoğu) olarak E Kitap tarama kaynakları&lt;/h2&gt;
 
 &lt;p&gt;http://e-booksland.com/&lt;br /&gt;
 http://en.bookfi.org/&lt;br /&gt;
@@ -311,47 +332,4 @@ Ne umutlar yetiştirmeye çalıştık,&lt;br /&gt;
 Ne umutlar soldu,&lt;br /&gt;
 Hangilerini unuttuk acaba ?&lt;br /&gt;
 &lt;br /&gt;
-Kim bilir..&lt;br /&gt;&lt;/p&gt;</content><author><name>ilhan</name></author><summary type="html">Boş bardağın bile dolu tarafı vardır derler, Elinde boş bir bardak olması gibi mesela. Ektiğin umutlara O boş bardakla su verirsen Bil ki, yavaş yavaş solacaklar Kuruyacaklar, Kapkara olacaklar sonra. Ve tutunamayıp düşecekler, ağacının dibine. Bazısı oracıkta toprağa karışırken, Diğerleri en ufak esintide havalanacak, uçup gidecek; Bir başka yerde karışacaklar toprağa. Sen yeni umutları sulamaya çalışırken, Unutacaksın o bir gün uçup giden umudu. Daha da kötüsü, Bazen, o umudu Unuttuğunu bile bilmeyeceksin. Ne umutlar yetiştirmeye çalıştık, Ne umutlar soldu, Hangilerini unuttuk acaba ? Kim bilir..</summary></entry><entry><title type="html">İletişim sorunları ve olası çözümler</title><link href="http://localhost:4000/jekyll/%C4%B0leti%C5%9Fim-sorunlar%C4%B1-ve-olas%C4%B1-%C3%A7%C3%B6z%C3%BCmler/" rel="alternate" type="text/html" title="İletişim sorunları ve olası çözümler" /><published>2018-02-09T00:00:00+03:00</published><updated>2018-02-09T00:00:00+03:00</updated><id>http://localhost:4000/jekyll/%C4%B0leti%C5%9Fim%20sorunlar%C4%B1%20ve%20olas%C4%B1%20%C3%A7%C3%B6z%C3%BCmler</id><content type="html" xml:base="http://localhost:4000/jekyll/%C4%B0leti%C5%9Fim-sorunlar%C4%B1-ve-olas%C4%B1-%C3%A7%C3%B6z%C3%BCmler/">&lt;p&gt;Genelde insanların davranışlarını kendimizce yorumlayıp ona göre hareket ediyoruz. Fakat karşıdakilerin neler hissettikleri, hangi ruh 
-halinde olduklarını, sıkıntılarının neler olduğunu ve hangi amaçla hareket ettiklerini bilmiyoruz. Bunlar hakkında bir şekilde yeterince 
-bilgi edinmek gerekiyor o insanı gerçekten anlamak ve harekete geçmek için.&lt;/p&gt;
-
-&lt;p&gt;Anlama çabamız sonucunda çıkabilecek en önemli parametre umutsuzluktur. Kendimizden hatırlarız, insan umutsuz olunca ne yaptığına dikkat etmiyor, bazen farkında bile olmuyor. Bu hal ile yaşıyor ve yaptıklarının sonucunun a veya b olması ile o kadar ilgilenmiyor. Bişeyler ile 
-oyalanıyor olmak ona ilaç gibi geliyor. Manasız geçen hayat ciddi bir sorundur. Bunu aşmak için insanın hayalleri olmalı ve bunlara 
-inanmalıdır. Gerçekleştirmek için yaptıklarını, yapması gerekenleri ve yapacaklarını bilip planlaması gerekir. Burda kendini bilmek ve 
-sevmek çok önemlidir.  İlk adım aslında budur. Bu adım olmadan diğerleri boştur. Yunus’un dediği gibi:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;İlim ilim bilmektir
-İlim kendin bilmektir
-Sen kendini bilmezsen
-Bu nice okumaktır
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Kişiyi anlama çabamız sonucunda elde edilecek bir diğer önemli çıktı gururdur. Kişi tarafından söylenmiş olabilir, söylenmemiş olabilir; birşeyler bi insanın gururuna dokununca da umutsuzluk ile benzer bir durum ile karşılaşırız. Bir eksikliğin, problemin farkedilmesi insanın gururunu zedeleyebilir ve gururu incinmiş bir insan kontrolsüz 
-olarak hareket edebilir ve genelde en yakınları olmak üzere çevresindekileri kırabilir. Bunun için konuşmalarda suçlayıcı tavırlardan 
-kaçınmak gerekir. Çünkü böyle bir harekette çözüm değil çatışma ortamı yaratılır. Mesela bir problem belirtirken “sen” li değil “ben” li 
-cümleler kurarak problemi aktarmalıyız. Örneğin;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&quot;Sen bunu anlatamıyorsun&quot; yerine &quot;Ben bunu anlamayamıyorum&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;şeklinde bir kullanım ile daha sağlıklı bir iletişim mümkündür. Bunda abartıya kaçmamak da önemli. Karşıdakine kendinizi problemli olarak 
-göstermek ile sonuçlanabilir.&lt;/p&gt;
-
-&lt;p&gt;Son ve önemli olarak anlama çabamız sonucunda inatçılığı tespit edebiliriz. Bu durumda kişi yanlış olduğunu bilerek veya bilmeyerek bir şeylere odaklanabilir ve inadından dolayı vazgeçmez. Bu hem kendisi için hem çevresi için sorun yaratabilir. Çözüm için üzerinde inatlaştığı durumdan vazgeçirmek yerine daha güzel bir şeye odaklanması sağlanabilirse odak dağılacak ve kişi güzel olan şeye yönelecektir. Geçen süre içinde eski alışkanlık unutulacak ve yerine yenisi geçmiş olacaktır. Görülen o ki inat ve bağımlılık çok benzer şeyler olup çözümleri de yine çok benzerdir.&lt;/p&gt;
-
-&lt;p&gt;Anlam ve neşe bulmanız dileği ile..&lt;/p&gt;</content><author><name>ilhan</name></author><summary type="html">Genelde insanların davranışlarını kendimizce yorumlayıp ona göre hareket ediyoruz. Fakat karşıdakilerin neler hissettikleri, hangi ruh halinde olduklarını, sıkıntılarının neler olduğunu ve hangi amaçla hareket ettiklerini bilmiyoruz. Bunlar hakkında bir şekilde yeterince bilgi edinmek gerekiyor o insanı gerçekten anlamak ve harekete geçmek için.</summary></entry><entry><title type="html">Kerem&amp;#8217;in ilhamiyle</title><link href="http://localhost:4000/jekyll/Kerem'in-ilhamiyle/" rel="alternate" type="text/html" title="Kerem'in ilhamiyle" /><published>2018-02-09T00:00:00+03:00</published><updated>2018-02-09T00:00:00+03:00</updated><id>http://localhost:4000/jekyll/Kerem'in%20ilhamiyle</id><content type="html" xml:base="http://localhost:4000/jekyll/Kerem'in-ilhamiyle/">&lt;p&gt;Ne zaman düşünsem sizi titrerim,&lt;br /&gt;
-Yaslı dağlar, yüzü gülmeyen dağlar!&lt;br /&gt;
-Bu dağlar içinde bir yer var derim,&lt;br /&gt;
-Orada kaybolan bir ses var, ağlar.&lt;br /&gt;
-&lt;br /&gt;
-Neden hiç çıkmıyor içimden bu ses&lt;br /&gt;
-Tipi, çığ, fırtına…Donar her nefes,&lt;br /&gt;
-Yine bu ses ağlar, işitmez herkes,&lt;br /&gt;
-Beni kıvrandırır, inletir, yakar.&lt;br /&gt;
-&lt;br /&gt;
-Hey bu dağlar yalçın, karanlık, derin!&lt;br /&gt;
-Ne bir geçit verir ne sıcak bir in.&lt;br /&gt;
-Gün battığı zaman sarp tepelerin&lt;br /&gt;
-Üstünden bir kartal geçer, o kadar..&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ahmet Kutsi Tecer&lt;/p&gt;</content><author><name>ilhan</name></author><summary type="html">Ne zaman düşünsem sizi titrerim, Yaslı dağlar, yüzü gülmeyen dağlar! Bu dağlar içinde bir yer var derim, Orada kaybolan bir ses var, ağlar. Neden hiç çıkmıyor içimden bu ses Tipi, çığ, fırtına…Donar her nefes, Yine bu ses ağlar, işitmez herkes, Beni kıvrandırır, inletir, yakar. Hey bu dağlar yalçın, karanlık, derin! Ne bir geçit verir ne sıcak bir in. Gün battığı zaman sarp tepelerin Üstünden bir kartal geçer, o kadar..</summary></entry></feed>
+Kim bilir..&lt;br /&gt;&lt;/p&gt;</content><author><name>ilhan</name></author><summary type="html">Boş bardağın bile dolu tarafı vardır derler, Elinde boş bir bardak olması gibi mesela. Ektiğin umutlara O boş bardakla su verirsen Bil ki, yavaş yavaş solacaklar Kuruyacaklar, Kapkara olacaklar sonra. Ve tutunamayıp düşecekler, ağacının dibine. Bazısı oracıkta toprağa karışırken, Diğerleri en ufak esintide havalanacak, uçup gidecek; Bir başka yerde karışacaklar toprağa. Sen yeni umutları sulamaya çalışırken, Unutacaksın o bir gün uçup giden umudu. Daha da kötüsü, Bazen, o umudu Unuttuğunu bile bilmeyeceksin. Ne umutlar yetiştirmeye çalıştık, Ne umutlar soldu, Hangilerini unuttuk acaba ? Kim bilir..</summary></entry></feed>
