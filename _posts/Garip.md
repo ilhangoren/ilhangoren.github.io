@@ -1,3 +1,16 @@
+---
+search: true
+categories: 
+  - Jekyll
+layout: single
+title: "Bilinmeyen bir kadının mektubu"
+description: "Garip"
+modified: 2018-10-22
+tags: [Kitaplar, Okumalar, Books, Summaries]
+comments: true
+share: true
+---
+
 Kurumuş yeşil otları
 Toprak olmuş umutları
 Gökte mazi bulutları
