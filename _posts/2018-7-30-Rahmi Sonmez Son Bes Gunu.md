@@ -3,8 +3,8 @@ search: true
 categories: 
   - Jekyll
 layout: single
-title: "Peygamberin Son Beş Günü"
-description: "Peygamberin Son Bes Gunu kitabının okuması"
+title: "Rahmi Sönmez'in Son Beş Günü"
+description: "Peygamber(Rahmi Sönmez)in Son Bes Gunu kitabının okuması"
 modified: 2018-08-28
 tags: [Kitaplar, Okumalar, Books, Summaries]
 comments: true
