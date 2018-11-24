@@ -93,7 +93,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "Maske",
-      excerpt: "Bana aldırmayın! Yüzüm bir maskedir, Sizi aldatmasın, Binlerce maskem var, Çıkarmaya korktuğum Ve Hiçbiri ben değilim. Beni kendi maskelerimden kurtaracak...",
+      excerpt: "Bana aldırmayın!\nYüzüm bir maskedir,\nSizi aldatmasın,\nBinlerce maskem var,\nÇıkarmaya korktuğum\nVe\nHiçbiri ben değilim.\n\n",
       categories: [],
       tags: [],
       id: 9
@@ -110,16 +110,16 @@ var idx = lunr(function () {
     
   
     idx.add({
-      title: "Listem",
-      excerpt: "Küçük prens Şeker portakalı Olasılıksız Aşk Suç ceza Hayvan çiftliği Sefiller Satranç Kuyucaklı Yusuf Da Vinci şifresi Sol ayağım Yabancı...",
-      categories: [],
-      tags: [],
+      title: "Rahmi Sönmez'in Son Beş Günü",
+      excerpt: "Kendimce okumada aklımda kalanlar\n\n",
+      categories: ["Jekyll"],
+      tags: ["Kitaplar","Okumalar","Books","Summaries"],
       id: 11
     });
     
   
     idx.add({
-      title: "Peygamberin Son Beş Günü",
+      title: "Bilinmeyen bir kadının mektubu",
       excerpt: "Kendimce okumada aklımda kalanlar\n\n",
       categories: ["Jekyll"],
       tags: ["Kitaplar","Okumalar","Books","Summaries"],
@@ -128,29 +128,20 @@ var idx = lunr(function () {
     
   
     idx.add({
-      title: "Bilinmeyen bir kadının mektubu",
-      excerpt: "Kendimce okumada aklımda kalanlar\n\n",
-      categories: ["Jekyll"],
-      tags: ["Kitaplar","Okumalar","Books","Summaries"],
+      title: "Tenis notlar",
+      excerpt: "Notlar\n\n",
+      categories: [],
+      tags: [],
       id: 13
     });
     
   
     idx.add({
-      title: "Tenis notlar",
-      excerpt: "Notlar\n\n",
+      title: "Kitap arsivleri",
+      excerpt: "Ücretsiz(birçoğu) olarak E Kitap tarama kaynakları\n\n",
       categories: [],
       tags: [],
       id: 14
-    });
-    
-  
-    idx.add({
-      title: "Kitap arsivleri",
-      excerpt: "Ücretsiz(birçoğu) olarak E Kitap tarama kaynakları asdasdasd http://e-booksland.com/ http://en.bookfi.org/ http://ebookee.org http://kat.cr/ http://pdfsb.net/ http://www.freebookspot.es/ http://appliedsciencefreelibraryguide.org/ http://avxhome.se/ebooks http://gendocs.ru/ (arayuzu rusca ama arama...",
-      categories: [],
-      tags: [],
-      id: 15
     });
     
   
@@ -159,15 +150,24 @@ var idx = lunr(function () {
       excerpt: "Test sayfasıdır Bunlar temel işlemlerin testidir. Alt satırda olmalı bu metin. bu da gayet iyi bir başlık olacak bold demek...",
       categories: [],
       tags: [],
+      id: 15
+    });
+    
+  
+    idx.add({
+      title: "Garip",
+      excerpt: "Kurumuş yeşil otları\nToprak olmuş umutları\nGökte mazi bulutları\nBu mezarda bir garip var, garip\n\n",
+      categories: ["Jekyll"],
+      tags: ["Kitaplar","Okumalar","Books","Summaries"],
       id: 16
     });
     
   
     idx.add({
-      title: "Bilinmeyen bir kadının mektubu",
-      excerpt: "Kurumuş yeşil otları\nToprak olmuş umutları\nGökte mazi bulutları\nBu mezarda bir garip var, garip\n\n",
-      categories: ["Jekyll"],
-      tags: ["Kitaplar","Okumalar","Books","Summaries"],
+      title: "Listem",
+      excerpt: "Küçük prens Şeker portakalı Olasılıksız Aşk Suç ceza Hayvan çiftliği Sefiller Satranç Kuyucaklı Yusuf Da Vinci şifresi Sol ayağım Yabancı...",
+      categories: [],
+      tags: [],
       id: 17
     });
     
@@ -304,19 +304,8 @@ var store = [
     
       
       {
-        "title": "Listem",
-        "url": "http://localhost:4000/Listem/",
-        "excerpt": "Küçük prens Şeker portakalı Olasılıksız Aşk Suç ceza Hayvan çiftliği Sefiller Satranç Kuyucaklı Yusuf Da Vinci şifresi Sol ayağım Yabancı...",
-        "teaser":
-          
-            null
-          
-      },
-    
-      
-      {
-        "title": "Peygamberin Son Beş Günü",
-        "url": "http://localhost:4000/jekyll/Peygamberin-Son-Bes-Gunu/",
+        "title": "Rahmi Sönmez'in Son Beş Günü",
+        "url": "http://localhost:4000/jekyll/Rahmi-Sonmez-Son-Bes-Gunu/",
         "excerpt": "Kendimce okumada aklımda kalanlar Rahmi Sönmez ve Fehmi Gülmez adında iki sıkı arkadaşın hayatını anlatıyor roman. Tahsin Yücel kitabın giriş...",
         "teaser":
           
@@ -350,7 +339,7 @@ var store = [
       {
         "title": "Kitap arsivleri",
         "url": "http://localhost:4000/Kitap-arsivleri/",
-        "excerpt": "Ücretsiz(birçoğu) olarak E Kitap tarama kaynakları asdasdasd http://e-booksland.com/ http://en.bookfi.org/ http://ebookee.org http://kat.cr/ http://pdfsb.net/ http://www.freebookspot.es/ http://appliedsciencefreelibraryguide.org/ http://avxhome.se/ebooks http://gendocs.ru/ (arayuzu rusca ama arama...",
+        "excerpt": "Ücretsiz(birçoğu) olarak E Kitap tarama kaynakları http://e-booksland.com/ http://en.bookfi.org/ http://ebookee.org http://kat.cr/ http://pdfsb.net/ http://www.freebookspot.es/ http://appliedsciencefreelibraryguide.org/ http://avxhome.se/ebooks http://gendocs.ru/ (arayuzu rusca ama arama yapabilirsiniz)...",
         "teaser":
           
             null
@@ -370,9 +359,20 @@ var store = [
     
       
       {
-        "title": "Bilinmeyen bir kadının mektubu",
+        "title": "Garip",
         "url": "http://localhost:4000/jekyll/Garip/",
         "excerpt": "Kurumuş yeşil otları Toprak olmuş umutları Gökte mazi bulutları Bu mezarda bir garip var, garip Hızlı hızlı giden yolcu Bu...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Listem",
+        "url": "http://localhost:4000/Listem/",
+        "excerpt": "Küçük prens Şeker portakalı Olasılıksız Aşk Suç ceza Hayvan çiftliği Sefiller Satranç Kuyucaklı Yusuf Da Vinci şifresi Sol ayağım Yabancı...",
         "teaser":
           
             null
