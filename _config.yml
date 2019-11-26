@@ -259,4 +259,4 @@ defaults:
       related: true
 search : true
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
