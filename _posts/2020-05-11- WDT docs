@@ -1,0 +1,14 @@
+---
+search: true
+categories: 
+  - Jekyll
+layout: single
+title: "WDT okuma kaynakları"
+description: "The list of reading passges about WDT"
+modified: 2020-05-12
+tags: [WDT, okuma, reading, passages]
+comments: true
+share: true
+---
+
+https://barrgroup.com/embedded-systems/how-to/advanced-watchdog-timer-tips <br>
