@@ -4,7 +4,7 @@ categories:
   - Jekyll
 layout: single
 title: "Okumalar-Sağlık"
-description: "The list of the podcasts I like to listen"
+description: "The list of reading passges about health"
 modified: 2020-05-12
 tags: [Podcasts, Podcasts for English, Podcasts in English, Podcast in Turkish]
 comments: true
