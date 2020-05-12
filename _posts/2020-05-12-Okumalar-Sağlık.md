@@ -6,7 +6,7 @@ layout: single
 title: "Okumalar-Sağlık"
 description: "The list of reading passges about health"
 modified: 2020-05-12
-tags: [Podcasts, Podcasts for English, Podcasts in English, Podcast in Turkish]
+tags: [Okumalar, sağlık okumaları, kaynaklar]
 comments: true
 share: true
 ---
