@@ -11,5 +11,5 @@ comments: true
 share: true
 ---
 
-https://www.sencard.com.tr/sen-programi/sen/saglikli-beslenme/saglikli-ve-zararli-yaglar
+https://www.sencard.com.tr/sen-programi/sen/saglikli-beslenme/saglikli-ve-zararli-yaglar </br>
 https://www.medicalpark.com.tr/ldl-kolesterol/hg-2189
