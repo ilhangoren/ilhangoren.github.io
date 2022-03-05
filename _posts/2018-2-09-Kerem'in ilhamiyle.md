@@ -6,10 +6,11 @@ layout: single
 title: "Kerem'in ilhamiyle"
 description: "The poem of Kerem'in ilhamiyle"
 modified: 2022-03-05
-tags: [Blog, Poems, Life, ]
+tags: [Blog, Poems, Life]
 comments: true
 share: true
 ---
+(*Tr*) KErem'in ilhamiyle  
 
 Ne zaman düşünsem sizi titrerim,  
 Yaslı dağlar, yüzü gülmeyen dağlar!  

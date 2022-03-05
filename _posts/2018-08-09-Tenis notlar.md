@@ -1,35 +1,47 @@
-## Notlar
+---
+search: true
+categories: 
+  - Sport
+layout: single
+title: "Notes for tennis"
+description: "My notes for tennis"
+modified: 2022-03-05
+tags: [Blog, Life, Sport, Notes, Tennis]
+comments: true
+share: true
+---
+(*Tr*) Notes for tennis  
 
-Ağırlığı arka ayağa ver, vuruşlarda <br>
-Serviste hız değil verimi arttır. İkide iki olmalı.<br>
-Oynarken harekete odaklan ve stabilleştir.<br>
-Sürekli yeni şeyler deneme, ilerlemeye çalış mevcut düzende.<br>
-Servislerde derin nefes al<br>
+* Ağırlığı arka ayağa ver, vuruşlarda  
+* Serviste hız değil verimi arttır. İkide iki olmalı.  
+* Oynarken harekete odaklan ve stabilleştir.  
+* Sürekli yeni şeyler deneme, ilerlemeye * çalış mevcut düzende.  
+* Servislerde derin nefes al  
 
-### Tenise yönelik antrenmanlar
+## Tenise yönelik antrenmanlar
 
-##### LEGS
+### LEGS
 
-Wall-sits<br>
-Lateral band walk<br>
-Glute bridges<br>
-Squats<br>
+* Wall-sits  
+* Lateral band walk  
+* Glute bridges  
+* Squats  
 
-##### STRONG CORE
+### STRONG CORE
 
-Planks<br>
-Medicine balls<br>
-Steaked V-sits<br>
-Standing abs<br>
+* Planks  
+* Medicine balls  
+* Steaked V-sits  
+* Standing abs  
 
-##### LEAN UPPER-BODY
+### LEAN UPPER-BODY
 
-Push-ups<br>
-Chin-up<br>
-Bicep curls<br>
-Kettlebells<br>
+* Push-ups  
+* Chin-up  
+* Bicep curls  
+* Kettlebells  
 
-##### FOOTWORK DRILLS
+### FOOTWORK DRILLS
 
-Ladder agility drills<br>
-On-count drills<br>
+* Ladder agility drills  
+* On-count drills  

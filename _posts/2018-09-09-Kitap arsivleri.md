@@ -1,31 +1,44 @@
-## Ücretsiz(birçoğu) olarak E Kitap tarama kaynakları
+---
+search: true
+categories: 
+  - How-to-books
+layout: single
+title: "Free book source's links"
+description: "Collections and links for free downloading of the books"
+modified: 2022-03-05
+tags: [Blog, Life, Books]
+comments: true
+share: true
+---
+(*Eng*) Free book sources
 
-http://e-booksland.com/<br>
-http://en.bookfi.org/<br>
-http://ebookee.org<br>
-http://kat.cr/<br>
-http://pdfsb.net/<br>
-http://www.freebookspot.es/<br>
-http://appliedsciencefreelibraryguide.org/<br>
-http://avxhome.se/ebooks<br>
-http://gendocs.ru/ (arayuzu rusca ama arama yapabilirsiniz)<br>
-http://ethos.bl.uk/Home.do<br>
-http://www.sciencedirect.com/<br>
-http://www.belmas.org.uk/<br>
-http://bookzz.org/<br>
-http://kitaplar.ankara.edu.tr/index.php<br>
-http://www.ebooks-for-all.com/<br>
-http://gen.lib.rus.ec/<br>
-https://awesome-websites.zeef.com/<br>
-http://libgen.io/<br>
-https://openlibrary.org/<br>
-http://audiobookbay.me/<br>
-http://bookdl.com/<br>
-http://www.book-juice.com/<br>
-https://archive.org/<br>
+http://e-booksland.com/  
+http://en.bookfi.org/  
+http://ebookee.org  
+http://kat.cr/  
+http://pdfsb.net/  
+http://www.freebookspot.es/  
+http://appliedsciencefreelibraryguide.org/  
+http://avxhome.se/ebooks  
+http://gendocs.ru/  
+http://ethos.bl.uk/Home.do  
+http://www.sciencedirect.com/  
+http://www.belmas.org.uk/  
+http://bookzz.org/  
+http://kitaplar.ankara.edu.tr/index.php  
+http://www.ebooks-for-all.com/  
+http://gen.lib.rus.ec/  
+https://awesome-websites.zeef.com/  
+http://libgen.io/  
+https://openlibrary.org/  
+http://audiobookbay.me/  
+http://bookdl.com/  
+http://www.book-juice.com/  
+https://archive.org/  
 
-### Arşiv Linki
-(03 Mart 2018 tarihinde güncellenmiştir. Toplam arşiv boyutu 109 GB)<br>
-[kaynak](http://link.tl/1awfp)
+### Archive link
+(Updated in 2018. Total size is 109 GB)  
+[book_archive_link](http://link.tl/1awfp)
 
-Link için şifre: !c3WEcNG8qmIy5od9HJ3ZXg
+Password:  
+!c3WEcNG8qmIy5od9HJ3ZXg

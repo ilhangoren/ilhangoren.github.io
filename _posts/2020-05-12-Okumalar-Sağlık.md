@@ -1,15 +1,22 @@
 ---
 search: true
 categories: 
-  - Jekyll
+  - Health
 layout: single
-title: "Sağlık üzerine okuma önerileri"
+title: "Useful readings for health"
 description: "The list of reading passges about health"
 modified: 2020-05-12
-tags: [Okumalar, sağlık okumaları, kaynaklar, öneriler]
+tags: [Okumalar, sağlık okumaları, reading, kaynaklar, health, sources]
 comments: true
 share: true
 ---
+(*Eng*) Useful readings for health
 
-https://www.sencard.com.tr/sen-programi/sen/saglikli-beslenme/saglikli-ve-zararli-yaglar <br>
-https://www.medicalpark.com.tr/ldl-kolesterol/hg-2189
+* https://www.sencard.com.tr/sen-programi/sen/saglikli-beslenme/saglikli-ve-zararli-yaglar  
+* https://www.medicalpark.com.tr/ldl-kolesterol/hg-2189  
+
+---
+(*Tr*) Sağlık üzerine okuma önerileri  
+
+* https://www.sencard.com.tr/sen-programi/sen/saglikli-beslenme/saglikli-ve-zararli-yaglar  
+* https://www.medicalpark.com.tr/ldl-kolesterol/hg-2189

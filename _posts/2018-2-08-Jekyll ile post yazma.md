@@ -12,8 +12,9 @@ share: true
 ---
 (*Eng*) 
 
->Post yazmak için ***_\_posts_*** klasörüne girip .md uzantılı dosya oluşturuyoruz. Dosya ismini ***2018-2-08-Jekyll ile post yazma.md*** yapiyoruz.
-İçine aşağıdaki metini yazınca şuan görmekte olduğunuza benzer bir post oluşuyor. Herşey otomatik.
+>To write your own post open ***_\_posts_*** directory and create a file with ***.md*** extention. Use the this naming: ***2018-2-08-Post writing with jekkly.md***  
+
+>Use the template below to create the post and modify as you want. When you pushed your work, it will be published in website after merge.
 
 ```yaml
 ---

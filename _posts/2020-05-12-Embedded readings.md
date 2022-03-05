@@ -1,7 +1,7 @@
 ---
 search: true
 categories: 
-  - Jekyll
+  - How-to-embedded
 layout: single
 title: "Embedded readings"
 description: "The list of reading passges about Embedded"
@@ -10,5 +10,6 @@ tags: [Embedded, okuma, reading, passages]
 comments: true
 share: true
 ---
+(*Eng*) Sources for reading about embedded systems  
 
-https://embeddedgurus.com/ <br>
+https://embeddedgurus.com/  
