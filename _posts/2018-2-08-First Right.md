@@ -3,10 +3,10 @@ search: true
 categories: 
   - Inferences
 layout: single
-title: "Our first right"
+title: "First right"
 description: "Attempt to define first right of future"
 modified: 2022-03-05
-tags: [Blog, open-source, rights, life]
+tags: [Blog, Open-source, Rights, Life]
 comments: true
 share: true
 ---
