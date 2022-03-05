@@ -1,12 +1,12 @@
 ---
 search: true
-categories: 
+categories: life, rights
   - Jekyll
 layout: single
 ---
 (*Eng*) First Right
 >Life is road, road itself.  
-And in this road, every person has the right of production of their own food by techno-synthesis from renewable energy sources.<br>
+And in this road, every person has the right of production of their own food by techno-synthesis from renewable energy sources.  
 
 ---
 (*Tr*) İlk Hak
