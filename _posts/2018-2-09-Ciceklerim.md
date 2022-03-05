@@ -1,7 +1,7 @@
 ---
 search: true
 categories: 
-  - Jekyll
+  - Poems
 layout: single
 ---
 
