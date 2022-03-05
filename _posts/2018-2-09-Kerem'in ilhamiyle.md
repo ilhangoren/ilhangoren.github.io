@@ -3,14 +3,14 @@ search: true
 categories: 
   - Poems
 layout: single
-title: "Kerem'in ilhamiyle"
+title: "Poem: Kerem'in ilhamiyle"
 description: "The poem of Kerem'in ilhamiyle"
 modified: 2022-03-05
 tags: [Blog, Poems, Life]
 comments: true
 share: true
 ---
-(*Tr*) KErem'in ilhamiyle  
+(*Tr*) Kerem'in ilhamiyle  
 
 Ne zaman düşünsem sizi titrerim,  
 Yaslı dağlar, yüzü gülmeyen dağlar!  

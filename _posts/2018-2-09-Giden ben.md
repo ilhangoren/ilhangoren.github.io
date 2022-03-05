@@ -3,7 +3,7 @@ search: true
 categories: 
   - Poems
 layout: single
-title: "The Ben gone"
+title: "Poem: The Ben gone"
 description: "Poem about Ben"
 modified: 2022-03-05
 tags: [Blog, Poems, Life]

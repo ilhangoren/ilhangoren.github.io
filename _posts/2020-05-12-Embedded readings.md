@@ -10,6 +10,6 @@ tags: [Embedded, okuma, reading, passages]
 comments: true
 share: true
 ---
-(*Eng*) Sources for reading about embedded systems  
+(*Eng*) Sources for readings about embedded systems  
 
 https://embeddedgurus.com/  

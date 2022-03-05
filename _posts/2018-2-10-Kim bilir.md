@@ -3,7 +3,7 @@ search: true
 categories: 
   - Poems
 layout: single
-title: "Kim Bilir"
+title: "Poem: Kim Bilir"
 description: "The poem of Kim Bilir"
 modified: 2022-03-05
 tags: [Blog, Poems, Life, ]

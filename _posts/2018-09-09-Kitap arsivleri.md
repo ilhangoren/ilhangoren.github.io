@@ -3,14 +3,14 @@ search: true
 categories: 
   - How-to-books
 layout: single
-title: "Free book source's links"
+title: "Free book sources"
 description: "Collections and links for free downloading of the books"
 modified: 2022-03-05
 tags: [Blog, Life, Books]
 comments: true
 share: true
 ---
-(*Eng*) Free book sources
+(*Eng*) List of free book sources
 
 http://e-booksland.com/  
 http://en.bookfi.org/  
