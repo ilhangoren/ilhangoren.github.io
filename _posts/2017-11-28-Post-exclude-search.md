@@ -3,7 +3,7 @@ search: false
 categories: 
   - How-to-blogging
 layout: single
-title: "How to xclude Post from Search Index"
+title: "How to exclude post from search index"
 description: "How to remove content from search index"
 modified: 2022-03-05
 tags: [Blog, Open-source, Search]
