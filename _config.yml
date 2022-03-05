@@ -84,9 +84,9 @@ analytics:
 # Site Author
 author:
   name             : "ilhan"
-  avatar           : #/assets/images/profil.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "a passenger"
-  location         : "istanbul"
+  avatar           : /assets/images/profil_malta.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "A passenger of life road.."
+  location         : "Malta"
   email            :
   uri              :
   bitbucket        :
@@ -95,11 +95,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : https://github.com/ilhangrn
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : ilhanmalta
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
