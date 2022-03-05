@@ -1,6 +1,6 @@
 ---
 search: true
-categories: life, rights
+categories: life, rights, inferences
   - Jekyll
 layout: single
 ---
