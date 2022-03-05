@@ -9,7 +9,7 @@ minimal_mistakes_skin    : sunrise # "default" # "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "en"
-title                    : "ilhan's homepage"
+title                    : "A journey in and out"
 title_separator          : "-"
 name                     : "ilhan"
 description              : "About life, road and tech"
@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "ilhan"
-  avatar           : /assets/images/profil_malta.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/profil_malta.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A passenger of life road.."
   location         : "Malta"
   email            :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/ilhangrn
+  github           : ilhangrn
   gitlab           :
   google_plus      :
   keybase          :
