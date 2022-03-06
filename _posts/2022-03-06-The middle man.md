@@ -5,7 +5,7 @@ categories:
 layout: single
 title: "Story: The middle man"
 description: "A story about the middle man"
-modified: 2022-02-19
+modified: 2022-03-06
 tags: [Blog writing, open-source, story]
 comments: true
 share: true
