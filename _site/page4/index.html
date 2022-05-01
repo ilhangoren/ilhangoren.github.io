@@ -1,51 +1,30 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.7.1 by Michael Rose
-  Copyright 2017 Michael Rose - mademistakes.com | @mmistakes
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
 <html lang="en" class="no-js">
   <head>
     <meta charset="utf-8">
 
-<!-- begin SEO -->
-
-
-
-
-
-
-
-
-
-<title>ilhan's homepage - Page 4</title>
-
-
-
-
+<!-- begin _includes/seo.html --><title>A journey in and out - Page 4</title>
 <meta name="description" content="About life, road and tech">
 
 
+  <meta name="author" content="ilhan">
+  
 
 
-<meta name="author" content="ilhan">
-
-<meta property="og:locale" content="en">
-<meta property="og:site_name" content="ilhan's homepage">
-<meta property="og:title" content="ilhan’s homepage">
-
-
-  <link rel="canonical" href="http://localhost:4000/page4/">
-  <meta property="og:url" content="http://localhost:4000/page4/">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="A journey in and out">
+<meta property="og:title" content="A journey in and out">
+<meta property="og:url" content="http://localhost:4000/page4/">
 
 
-
-
-
-
-
-
+  <meta property="og:description" content="About life, road and tech">
 
 
 
@@ -62,42 +41,40 @@
   
 
 
-
-
-
+<link rel="canonical" href="http://localhost:4000/page4/">
 
 
   <link rel="prev" href="http://localhost:4000/page3/">
 
 
+  <link rel="next" href="http://localhost:4000/page5/">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "ilhan",
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
 
 
 
 
-  <script type="application/ld+json">
-    {
-      "@context" : "http://schema.org",
-      "@type" : "Person",
-      "name" : "ilhan",
-      "url" : "http://localhost:4000",
-      "sameAs" : null
-    }
-  </script>
 
 
 
+<!-- end _includes/seo.html -->
 
 
 
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="A journey in and out Feed">
 
-<!-- end SEO -->
 
-
-<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="ilhan's homepage Feed">
-
-<!-- http://t.co/dKP3o1e -->
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
+<!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <script>
@@ -105,53 +82,57 @@
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
 
-<!--[if lte IE 9]>
-  <style>
-    /* old IE unsupported flexbox fixes */
-    .greedy-nav .site-title {
-      padding-right: 3em;
-    }
-    .greedy-nav button {
-      position: absolute;
-      top: 0;
-      right: 0;
-      height: 100%;
-    }
-  </style>
-<![endif]-->
+
+
 
 
     <!-- start custom head snippets -->
 
-<!-- insert favicons. use http://realfavicongenerator.net/ -->
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
 
 <!-- end custom head snippets -->
+
   </head>
 
   <body class="layout--home">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
 
     <!--[if lt IE 9]>
 <div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
 <![endif]-->
 
-    <div class="masthead">
+    
+
+<div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="http://localhost:4000/">ilhan's homepage</a>
-        <ul class="visible-links">
+        
+        <a class="site-title" href="/">
+          A journey in and out
           
-            
-            <li class="masthead__menu-item"><a href="https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/">Quick-Start Guide</a></li>
-          
-            
-            <li class="masthead__menu-item"><a href="https://mmistakes.github.io/minimal-mistakes/about/">About mmistakes</a></li>
-          
-        </ul>
-        <button type="button">
-          <span class="visually-hidden">Toggle Menu</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/">Do your own!</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
           <div class="navicon"></div>
         </button>
         <ul class="hidden-links hidden"></ul>
@@ -160,68 +141,351 @@
   </div>
 </div>
 
-    <h3 class="archive__subtitle">Recent Posts</h3>
 
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person" class="h-card">
 
   
+    <div class="author__avatar">
+      <a href="http://localhost:4000/">
+        <img src="/assets/images/2022_pro_profil.jpg" alt="ilhan" itemprop="image" class="u-photo">
+      </a>
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="http://localhost:4000/" itemprop="url">ilhan</a>
+    </h3>
+    
+      <div class="author__bio p-note" itemprop="description">
+        <p>A passenger of life road..</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">Malta</span>
+        </li>
+      
+
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            <li><a href="https://github.com/ilhangrn" rel="nofollow noopener noreferrer me"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
+          
+        
+          
+            <li><a href="https://instagram.com/ilhanmalta" rel="nofollow noopener noreferrer me"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+  
+  </div>
+
+
+
+  <div class="archive">
+    
+      <h1 id="page-title" class="page__title"></h1>
+    
+    
+
+<h3 class="archive__subtitle">Recent posts</h3>
+
+
+
+
+<div class="entries-list">
+  
+    
 
 
 
 <div class="list__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     
-    <h2 class="archive__item-title" itemprop="headline">
+    <h2 class="archive__item-title no_toc" itemprop="headline">
       
-        <a href="http://localhost:4000/jekyll/%C4%B0lk-hak/" rel="permalink">İlk hak
+        <a href="/inferences/Rahmi-Sonmez-Son-Bes-Gunu/" rel="permalink">Book inferences: Last five days of Rahmi Sonmez
 </a>
       
     </h2>
     
-    <p class="archive__item-excerpt" itemprop="description">Hayat yoldur, yolun kendisi.
-Ve bu yolda her insanın yenilenebilir enerji kaynaklarından teknosentez ile kendi besinini üretme hakkı vardır.
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          2 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">(Tr) Kendimce aklımda kalanlar
+
 </p>
   </article>
 </div>
 
   
+    
 
 
 
 <div class="list__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     
-    <h2 class="archive__item-title" itemprop="headline">
+    <h2 class="archive__item-title no_toc" itemprop="headline">
       
-        <a href="http://localhost:4000/jekyll/Jekyll-ile-post-yazma/" rel="permalink">Jekyll ile post yazma
+        <a href="/how-to-oop/Nesne-y%C3%B6nelimli-programlama/" rel="permalink">Object oriented programming
 </a>
       
     </h2>
     
-    <p class="archive__item-excerpt" itemprop="description">Post yazmak için _posts klasörüne girip .md uzantılı dosya oluşturuyoruz. Dosya ismini 2018-2-08-Jekyll ile post yazma.md yapiyoruz.
-İçine aşağıdaki metini y...</p>
-  </article>
-</div>
 
-  
-
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  <p class="page__meta">
     
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="http://localhost:4000/jekyll/Post-exclude-search/" rel="permalink">Exclude Post from Search Index
-</a>
-      
-    </h2>
+
     
-    <p class="archive__item-excerpt" itemprop="description">This post should not appear in the search index because it has the following YAML Front Matter:
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">(Tr)  Nesne yönelimli programlama
 
 </p>
   </article>
 </div>
 
+  
+    
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/poems/Maske/" rel="permalink">Poem: Please Hear What I’m Not Saying
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          4 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">(Eng) Please Hear What I’m Not Saying
+
+</p>
+  </article>
+</div>
+
+  
+    
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/poems/Kim-bilir/" rel="permalink">Poem: Kim Bilir
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">(Tr) Kim bilir
+
+</p>
+  </article>
+</div>
+
+  
+    
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/inferences/%C4%B0leti%C5%9Fim-sorunlar%C4%B1-ve-olas%C4%B1-%C3%A7%C3%B6z%C3%BCmler/" rel="permalink">Communication problems
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">(Tr)  İletişim sorunları ve çözüm önerisi
+
+</p>
+  </article>
+</div>
+
+  
+</div>
 
 
 <nav class="pagination">
@@ -230,13 +494,13 @@ Ve bu yolda her insanın yenilenebilir enerji kaynaklarından teknosentez ile ke
     
     
       
-        <li><a href="http://localhost:4000/page3/">Previous</a></li>
+        <li><a href="/page3/">Previous</a></li>
       
     
 
     
     
-      <li><a href="http://localhost:4000/">1</a></li>
+      <li><a href="/">1</a></li>
     
 
     
@@ -251,14 +515,25 @@ Ve bu yolda her insanın yenilenebilir enerji kaynaklarından teknosentez ile ke
         
         
         
-        <li><a href="http://localhost:4000/page2/">2</a></li>
+        <li><a href="/page2/">2</a></li>
       
     
       
         
         
         
-        <li><a href="http://localhost:4000/page3/">3</a></li>
+        <li><a href="/page3/">3</a></li>
+      
+    
+      
+        <li><a href="/page4/" class="disabled current">4</a></li>
+      
+    
+      
+        
+        
+        
+        <li><a href="/page5/">5</a></li>
       
     
 
@@ -266,21 +541,37 @@ Ve bu yolda her insanın yenilenebilir enerji kaynaklarından teknosentez ile ke
     
 
     
-      <li><a href="#" class="disabled current">4</a></li>
+      <li><a href="/page6/">6</a></li>
     
 
     
     
-      <li><a href="#" class="disabled"><span aria-hidden="true">Next</span></a></li>
+      <li><a href="/page5/">Next</a></li>
     
   </ul>
 </nav>
 
 
 
+  </div>
+</div>
+    </div>
 
-    <div class="page__footer">
-      <footer >
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
         <!-- start custom footer snippets -->
 
 <!-- end custom footer snippets -->
@@ -289,22 +580,43 @@ Ve bu yolda her insanın yenilenebilir enerji kaynaklarından teknosentez ile ke
     
       <li><strong>Follow:</strong></li>
     
+
     
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
     
+
     
-    <li><a href="http://localhost:4000/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2018 ilhan. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
-
+<div class="page__footer-copyright">&copy; 2022 ilhan. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>
 
     
-  <script src="http://localhost:4000/assets/js/main.min.js"></script>
+  <script src="/assets/js/main.min.js"></script>
 
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
 
 
 
