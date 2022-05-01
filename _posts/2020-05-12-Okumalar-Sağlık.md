@@ -6,7 +6,7 @@ layout: single
 title: "Useful readings for health"
 description: "The list of reading passges about health"
 modified: 2020-05-12
-tags: [Okumalar, sağlık okumaları, reading, kaynaklar, health, sources]
+tags: [Health, Reading, Sources]
 comments: true
 share: true
 ---

@@ -6,7 +6,7 @@ layout: single
 title: "Homework: A article about an small and old town"
 description: "A writing example for a small and old town"
 modified: 2022-03-09
-tags: [Blog writing, open-source, article, towns, halfeti, sanliurfa]
+tags: [Blog, Open-source, Article, Towns, Halfeti, Sanliurfa]
 comments: true
 share: true
 ---

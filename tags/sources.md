@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: sources"
-tag: sources
+title: "Tag: Sources"
+tag: Sources
 robots: noindex
 ---

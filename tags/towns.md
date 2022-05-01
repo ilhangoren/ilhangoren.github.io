@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: towns"
-tag: towns
+title: "Tag: Towns"
+tag: Towns
 robots: noindex
 ---

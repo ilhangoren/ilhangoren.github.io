@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: sanliurfa"
-tag: sanliurfa
+title: "Tag: Sanliurfa"
+tag: Sanliurfa
 robots: noindex
 ---

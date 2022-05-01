@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: english"
-tag: english
+title: "Tag: English"
+tag: English
 robots: noindex
 ---

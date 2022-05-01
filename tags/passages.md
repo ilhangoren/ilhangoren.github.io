@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: passages"
-tag: passages
+title: "Tag: Passages"
+tag: Passages
 robots: noindex
 ---

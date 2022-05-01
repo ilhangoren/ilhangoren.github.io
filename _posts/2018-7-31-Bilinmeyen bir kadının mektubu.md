@@ -6,7 +6,7 @@ layout: single
 title: "Book inferences: Letter from an unknown woman"
 description: "My personal inferences from the book Letter from an unknown woman"
 modified: 2022-03-05
-tags: [Blog, Open-source, Inferences, Book, Reading, Stefen Zweig]
+tags: [Blog, Open-source, Inferences, Book, Reading, Stefen-Zweig]
 comments: true
 share: true
 ---

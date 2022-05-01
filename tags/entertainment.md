@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: entertainment"
-tag: entertainment
+title: "Tag: Entertainment"
+tag: Entertainment
 robots: noindex
 ---

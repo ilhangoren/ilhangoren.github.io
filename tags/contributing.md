@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: contributing"
-tag: contributing
+title: "Tag: Contributing"
+tag: Contributing
 robots: noindex
 ---

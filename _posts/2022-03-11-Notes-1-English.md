@@ -6,7 +6,7 @@ layout: single
 title: "Notes-1: English study about entertainment"
 description: "Notes from English study about entertainment"
 modified: 2022-03-11
-tags: [Blog writing, open-source, notes, english, entertainment, habits]
+tags: [Blog, Open-source, Notes, English, Entertainment, Habits]
 comments: true
 share: true
 ---

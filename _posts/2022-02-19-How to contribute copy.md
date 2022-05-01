@@ -6,7 +6,7 @@ layout: single
 title: "How to contribute"
 description: "Explaniton about how to contribute to this blog"
 modified: 2022-02-19
-tags: [Blog writing, open-source, contributing]
+tags: [Blog, Open-source, Contributing]
 comments: true
 share: true
 ---

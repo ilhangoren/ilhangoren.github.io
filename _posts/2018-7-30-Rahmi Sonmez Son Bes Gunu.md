@@ -6,7 +6,7 @@ layout: single
 title: "Book inferences: Last five days of Rahmi Sonmez"
 description: "Inferences from book1"
 modified: 2022-03-05
-tags: [Blog, Open-source, Inferences, Book, Reading, Tahsin Yucel]
+tags: [Blog, Open-source, Inferences, Book, Reading, Tahsin-Yucel]
 comments: true
 share: true
 ---

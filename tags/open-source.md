@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: open-source"
-tag: open-source
+title: "Tag: Open-source"
+tag: Open-source
 robots: noindex
 ---

@@ -6,7 +6,7 @@ layout: single
 title: "Notes-2: English study about describing"
 description: "Notes from English study about describing"
 modified: 2022-03-12
-tags: [Blog writing, open-source, notes, english, entertainment, habits]
+tags: [Blog-writing, Open-source, Notes, English, Entertainment, Habits]
 comments: true
 share: true
 ---
