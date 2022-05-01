@@ -1,5 +1,5 @@
 ---
-search: false
+search: true
 categories: 
   - How-to-blogging
 layout: single
