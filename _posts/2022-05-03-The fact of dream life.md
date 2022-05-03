@@ -11,4 +11,4 @@ comments: true
 share: true
 ---
 (*Eng*)
-There is no time in which everthing would be done and you will start to live. Rest in peace with you desires and dreams..
+There is no time in which everthing would be done and you will start to live. Rest in peace with your desires and dreams..
