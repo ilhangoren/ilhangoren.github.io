@@ -3,8 +3,8 @@ search: true
 categories: 
   - Inferences
 layout: single
-title: "The fact of dream life"
-description: "The fact of dream life"
+title: "Goal and way of writing"
+description: "Goal and way of writing"
 modified: 2022-05-03
 tags: [Blog, Open-source, Notes, English, Habits]
 comments: true
