@@ -10,5 +10,5 @@ tags: [Blog, Open-source, Notes, English, Habits]
 comments: true
 share: true
 ---
-(*Eng*) The fact of dream life
+(*Eng*)
 There is no time in which everthing would be done and you will start to live. Rest in peace with you desires and dreams..
