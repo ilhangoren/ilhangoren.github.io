@@ -10,7 +10,7 @@ tags: [Blog, Open-source, Notes, English, Habits]
 comments: true
 share: true
 ---
-(*Eng*)The resistance
+(*Eng*) The resistance
 
 There is no rule and order in context and title. They are just a piece of my daily feelings, experience, and learning progress.
 Today I have just decided to write about resistance. Because yesterday I couldn't start to write. 
