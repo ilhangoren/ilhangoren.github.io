@@ -6,7 +6,7 @@ layout: single
 title: "Software Guidestones"
 description: "Software Guidestones"
 modified: 2022-05-16
-tags: [Blog, Open-source, Story, English, Habits]
+tags: [Blog, Open-source, English, Software]
 comments: true
 share: true
 ---

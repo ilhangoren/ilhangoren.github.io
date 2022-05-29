@@ -6,7 +6,7 @@ layout: single
 title: "Python Environments"
 description: "Python Environments"
 modified: 2022-05-16
-tags: [Blog, Open-source, English, Python, Software]
+tags: [Blog, Open-source, Notes, English, Python, Software]
 comments: true
 share: true
 ---

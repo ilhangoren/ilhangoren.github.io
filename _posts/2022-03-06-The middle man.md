@@ -6,7 +6,7 @@ layout: single
 title: "Story: The middle men and old man"
 description: "A story about the middle men and old man"
 modified: 2022-03-06
-tags: [Blog, Open-source, Story]
+tags: [Blog, Open-source, Story, English]
 comments: true
 share: true
 ---
