@@ -10,6 +10,6 @@ tags: [Embedded, Reading, Passages, Software]
 comments: true
 share: true
 ---
-(*Eng*) Sources for readings about embedded systems  
+(*Eng*) Guide: Sources for readings about embedded systems  
 
 https://embeddedgurus.com/  

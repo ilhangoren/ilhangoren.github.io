@@ -10,7 +10,7 @@ tags: [Blog, Open-source, Inferences, Book, Reading, Tahsin-Yucel]
 comments: true
 share: true
 ---
-(*Tr*) Kendimce aklımda kalanlar
+(*Tr*) BookSummary: Kendimce aklımda kalanlar
 
 >Rahmi Sönmez ve Fehmi Gülmez adında iki sıkı arkadaşın hayatını anlatıyor roman.
 

@@ -10,7 +10,7 @@ tags: [Blog, Life, Books]
 comments: true
 share: true
 ---
-(*Eng*) List of free book sources
+(*Eng*) Guide: List of free book sources
 
 http://e-booksland.com/  
 http://en.bookfi.org/  

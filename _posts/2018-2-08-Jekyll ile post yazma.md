@@ -10,7 +10,7 @@ tags: [Blog, Open-source, How-to]
 comments: true
 share: true
 ---
-(*Eng*) How to add your own posts to this website
+(*Eng*) Guide: How to add your own posts to this website
 
 >To write your own post open ***_\_posts_*** directory and create a file with ***.md*** extention. Use the this naming: ***2018-2-08-Post writing with jekkly.md***  
 

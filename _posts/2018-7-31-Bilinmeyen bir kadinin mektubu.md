@@ -10,7 +10,7 @@ tags: [Blog, Open-source, Inferences, Book, Reading, Stefen-Zweig]
 comments: true
 share: true
 ---
-(*Tr*) Bilinmeyen bir kadının mektubu
+(*Tr*) BookSummary: Bilinmeyen bir kadının mektubu
 
 >Kitap 1920'lerde Stefan Zweig tarafından kaleme alınmış. Sadece hisler ve düşünceler üzerinden ilerlediği için dönemle ilgili bir kestirim yapmak zor. Anlaşılan o ki yüzyıl geçse de duygular bir insanlar aynı. Bu konuda pek bir değişim yok.
 

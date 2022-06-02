@@ -10,7 +10,7 @@ tags: [Blog, Life, Sport, Notes, Tennis]
 comments: true
 share: true
 ---
-(*Tr*) Tenis notlarım  
+(*Tr*) Issue: Tenis notlarım  
 
 * Ağırlığı arka ayağa ver, vuruşlarda  
 * Serviste hız değil verimi arttır. İkide iki olmalı.  

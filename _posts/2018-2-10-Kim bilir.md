@@ -10,7 +10,7 @@ tags: [Blog, Poems, Life, ]
 comments: true
 share: true
 ---
-(*Tr*) Kim bilir  
+(*Tr*) Poemy: Kim bilir  
 
 Boş bardağın bile dolu tarafı vardır derler,    
 Elinde boş bir bardak olması gibi mesela.    

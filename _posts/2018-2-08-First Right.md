@@ -11,7 +11,7 @@ comments: true
 share: true
 ---
 
-(*Eng*) First Right of future  
+(*Eng*) Quoty: First Right of future  
 
 >Life is road, road itself.  
 And in this road, every person has the right of production of their own food by techno-synthesis from renewable energy sources.  

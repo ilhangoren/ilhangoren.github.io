@@ -10,7 +10,7 @@ tags: [Blog, Open-source, Search]
 comments: true
 share: true
 ---
-(*Eng*) Excluding the posts from search index
+(*Eng*) Guide: Excluding the posts from search index
 
 >This post should not appear in the search index because it has the following YAML Front Matter:
 

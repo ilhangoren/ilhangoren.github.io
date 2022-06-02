@@ -10,7 +10,7 @@ tags: [Blog, Poems, Life]
 comments: true
 share: true
 ---
-(*Tr*) Kerem'in ilhamiyle  
+(*Tr*) Poem: Kerem'in ilhamiyle  
 
 Ne zaman düşünsem sizi titrerim,  
 Yaslı dağlar, yüzü gülmeyen dağlar!  
