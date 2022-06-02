@@ -19,3 +19,17 @@ The virtual environments creates copy of picked pyhton exe in another folder. Wh
 When we install packages to our enrironment they will be placed in Lib folder of environment and will be imported from there.
 
 As a result, we create python environments for all different project. Every project should have it's own environment. Because dependecies are usually different so they need to have different environments to work clean and independent.
+
+I have discovered a new tool named Poetry. This is great and manages all things related with project. It manages reqiurements, dependencies, environments, and publishing. Usage is so simple.
+
+For adding a new dependency and install it:
+>Poetry add
+
+To activate the environment
+>Poetry run or Poetry shell
+
+The shell is windows shell, so it is not very powerful. Instead of console, vscode environment management tool works well. Just pick related Poetry env and activate it over vscode. It is done. When you need a new dependency, open vscode terminal and use "Poetry add blabla"
+
+Poetry also has lock system. This is locks the dependencies for project, without installing them it will not start. You can also define one more lock for developers to define their environments and fic them to a stable one.
+
+Easy to use and complete.
