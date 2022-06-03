@@ -3,8 +3,8 @@ search: true
 categories: 
   - How-to-oop
 layout: single
-title: "Object oriented programming"
-description: "An analogy for object oriented programming"
+title: "Notes: Object oriented programming"
+description: "Notes: An analogy for object oriented programming"
 modified: 2022-03-05
 tags: [Blog, Open-source, Programming, OOP]
 comments: true

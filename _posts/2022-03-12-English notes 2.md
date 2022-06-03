@@ -3,8 +3,8 @@ search: true
 categories: 
   - Study notes
 layout: single
-title: "English study about describing"
-description: "Notes from English study about describing"
+title: "Notes: English study about describing"
+description: "Notes: English study about describing"
 modified: 2022-03-12
 tags: [Blog, Open-source, Notes, English, Entertainment, Habits]
 comments: true

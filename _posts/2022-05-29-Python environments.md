@@ -3,8 +3,8 @@ search: true
 categories: 
   - Story
 layout: single
-title: "Python Environments"
-description: "Python Environments"
+title: "Notes: Python Environments"
+description: "Notes: Python Environments"
 modified: 2022-05-16
 tags: [Blog, Open-source, Notes, English, Python, Software]
 comments: true

@@ -3,14 +3,14 @@ search: true
 categories: 
   - How-to-blogging
 layout: single
-title: "How to add your own posts to this website"
-description: "Steps for guests to publish their own posts"
+title: "Guide: How to add your own posts to this website"
+description: "Guide: Steps for guests to publish their own posts"
 modified: 2022-03-05
 tags: [Blog, Open-source, How-to]
 comments: true
 share: true
 ---
-(*Eng*) Guide: How to add your own posts to this website
+(*Eng*) How to add your own posts to this website
 
 >To write your own post open ***_\_posts_*** directory and create a file with ***.md*** extention. Use the this naming: ***2018-2-08-Post writing with jekkly.md***  
 

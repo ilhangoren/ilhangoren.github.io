@@ -4,13 +4,13 @@ categories:
   - Inferences
 layout: single
 title: "Book inferences: Last five days of Rahmi Sonmez"
-description: "Inferences from book1"
+description: "Book inferences: Inferences from book1"
 modified: 2022-03-05
 tags: [Blog, Open-source, Inferences, Book, Reading, Tahsin-Yucel]
 comments: true
 share: true
 ---
-(*Tr*) BookSummary: Kendimce aklımda kalanlar
+(*Tr*) Kendimce aklımda kalanlar
 
 >Rahmi Sönmez ve Fehmi Gülmez adında iki sıkı arkadaşın hayatını anlatıyor roman.
 

@@ -3,8 +3,8 @@ search: true
 categories: 
   - Study notes
 layout: single
-title: "English study about entertainment"
-description: "Notes from English study about entertainment"
+title: "Notes: English study about entertainment"
+description: "Notes: English study about entertainment"
 modified: 2022-03-11
 tags: [Blog, Open-source, Notes, English, Entertainment, Habits]
 comments: true

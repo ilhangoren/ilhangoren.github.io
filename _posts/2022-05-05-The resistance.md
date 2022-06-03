@@ -3,14 +3,14 @@ search: true
 categories: 
   - Study notes
 layout: single
-title: "The resistance"
-description: "The resistance"
+title: "Issue: The resistance"
+description: "Issue: The resistance"
 modified: 2022-05-05
 tags: [Blog, Open-source, Notes, English, Habits]
 comments: true
 share: true
 ---
-(*Eng*) Issue: The resistance
+(*Eng*) The resistance
 
 There is no rule and order in context and title. They are just a piece of my daily feelings, experience, and learning progress.
 Today I have just decided to write about resistance. Because yesterday I couldn't start to write. 

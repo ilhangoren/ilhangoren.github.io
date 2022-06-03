@@ -3,8 +3,8 @@ search: true
 categories: 
   - Story
 layout: single
-title: "Software Guidestones"
-description: "Software Guidestones"
+title: "Notes: Software Guidestones"
+description: "Notes: Software Guidestones"
 modified: 2022-05-16
 tags: [Blog, Open-source, English, Software]
 comments: true

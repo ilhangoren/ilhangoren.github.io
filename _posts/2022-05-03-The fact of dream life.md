@@ -3,8 +3,8 @@ search: true
 categories: 
   - Inferences
 layout: single
-title: "The fact of dream life"
-description: "The fact of dream life"
+title: "Quoty: The fact of dream life"
+description: "Quoty: The fact of dream life"
 modified: 2022-05-03
 tags: [Blog, Open-source, Notes, English, Habits]
 comments: true

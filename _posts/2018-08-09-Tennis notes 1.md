@@ -3,14 +3,14 @@ search: true
 categories: 
   - Sport
 layout: single
-title: "Notes for tennis"
-description: "My notes for tennis"
+title: "Notes: Tennis essentials"
+description: "Notes: My notes for tennis"
 modified: 2022-03-05
 tags: [Blog, Life, Sport, Notes, Tennis]
 comments: true
 share: true
 ---
-(*Tr*) Issue: Tenis notlarım  
+(*Tr*) Tenis notlarım  
 
 * Ağırlığı arka ayağa ver, vuruşlarda  
 * Serviste hız değil verimi arttır. İkide iki olmalı.  

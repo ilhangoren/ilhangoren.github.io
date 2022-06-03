@@ -3,14 +3,14 @@ search: true
 categories: 
   - Inferences
 layout: single
-title: "Communication problems"
-description: "Communication problems and solution proposal"
+title: "Issue: Communication problems"
+description: "Issue: Communication problems and solution proposal"
 modified: 2022-03-05
 tags: [Blog, Open-source, Life, Communication]
 comments: true
 share: true
 ---
-(*Tr*)  Issue: İletişim sorunları ve çözüm önerisi  
+(*Tr*)  İletişim sorunları ve çözüm önerisi  
 
 >Genelde insanların davranışlarını kendimizce yorumlayıp ona göre hareket ediyoruz. Fakat karşıdakilerin neler hissettikleri, hangi ruh 
 halinde olduklarını, sıkıntılarının neler olduğunu ve hangi amaçla hareket ettiklerini bilmiyoruz. Bunlar hakkında bir şekilde yeterince bilgi edinmek gerekiyor o insanı gerçekten anlamak ve harekete geçmek için.  

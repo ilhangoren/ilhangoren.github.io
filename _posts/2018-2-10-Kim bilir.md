@@ -3,14 +3,14 @@ search: true
 categories: 
   - Poems
 layout: single
-title: "Poem: Kim Bilir"
-description: "The poem of Kim Bilir"
+title: "Poemy: Kim Bilir"
+description: "Poemy: The poem of Kim Bilir"
 modified: 2022-03-05
 tags: [Blog, Poems, Life, ]
 comments: true
 share: true
 ---
-(*Tr*) Poemy: Kim bilir  
+(*Tr*) Kim bilir  
 
 Boş bardağın bile dolu tarafı vardır derler,    
 Elinde boş bir bardak olması gibi mesela.    
