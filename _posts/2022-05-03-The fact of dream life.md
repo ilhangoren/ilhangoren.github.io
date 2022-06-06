@@ -10,6 +10,6 @@ tags: [Blog, Open-source, Notes, English, Habits]
 comments: true
 share: true
 ---
-(*Eng*) Quoty
+(*Eng*) The fact of dream life
 
-There is no time in which everthing would be done and you will start to live. Rest in peace with your desires and dreams..
+>There is no time in which everthing would be done and you will start to live. Rest in peace with your desires and dreams. Or live this day before passing..
